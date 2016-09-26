@@ -161,3 +161,5 @@ echo ""
 
 rm -rf dist/*
 cp -a ${target}/ckeditor/. dist/
+rm dist/skins/coatue/editor.css
+touch dist/skins/coatue/editor.css # TODO: move css from mosaic to here
