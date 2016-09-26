@@ -1,6 +1,5 @@
 /build
 /ckeditor
 /ckbuilder
-/dist
 .DS_Store
 npm-debug.log
